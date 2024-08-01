@@ -31,8 +31,8 @@ Con ColDisBot, podrás interactuar con una IA especializada capaz de asistirte e
 ## Instalación
 
 1. Asegúrate de tener Python 3.8 o superior instalado en tu máquina.
-2. Clona este repositorio: `git clone https://github.com/bladealex9848/asistente-virtual.git`
-3. Navega al directorio del proyecto: `cd asistente-virtual`
+2. Clona este repositorio: `git clone https://github.com/bladealex9848/ColDisBot.git`
+3. Navega al directorio del proyecto: `cd ColDisBot`
 4. Instala las dependencias: `pip install -r requirements.txt`
 5. Crea un archivo `.streamlit/secrets.toml` y añade tu ASSISTANT_ID de OpenAI:
    ```
